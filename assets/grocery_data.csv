@@ -1,0 +1,191 @@
+Grocery Store,Item,Price
+Zehrs Markets,Noodles,2.99
+Zehrs Markets,Fettuccine Pasta,4.99
+Zehrs Markets,Chicken Breast,10.99
+Zehrs Markets,Unsalted Butter,8.00
+Zehrs Markets,Heavy Cream,4.98
+Zehrs Markets,Garlic,0.89
+Zehrs Markets,Black Pepper,1.99
+Zehrs Markets,Fresh Parsley,2.98
+Zehrs Markets,Sauce,3.49
+Zehrs Markets,Water,0.99
+Zehrs Markets,Salt,0.79
+Zehrs Markets,Ground Beef Patties,4.99
+Zehrs Markets,Buns,1.99
+Zehrs Markets,Lettuce,1.49
+Zehrs Markets,Tomatoes,2.29
+Zehrs Markets,Cheese,3.29
+Zehrs Markets,Croutons,1.79
+Zehrs Markets,Caesar Dressing,2.99
+Zehrs Markets,Parmesan Cheese,2.49
+Walmart Supercentre,Noodles,2.79
+Walmart Supercentre,Unsalted Butter,6.99
+Walmart Supercentre,Heavy Cream,5.98
+Walmart Supercentre,Garlic,0.79
+Walmart Supercentre,Black Pepper,1.98
+Walmart Supercentre,Fresh Parsley,3.98
+Walmart Supercentre,Fettuccine Pasta,3.99
+Walmart Supercentre,Chicken Breast,10.99
+Walmart Supercentre,Sauce,2.99
+Walmart Supercentre,Water,0.89
+Walmart Supercentre,Salt,0.69
+Walmart Supercentre,Ground Beef Patties,4.49
+Walmart Supercentre,Buns,1.79
+Walmart Supercentre,Lettuce,1.29
+Walmart Supercentre,Tomatoes,1.99
+Walmart Supercentre,Cheese,2.99
+Walmart Supercentre,Croutons,1.69
+Walmart Supercentre,Caesar Dressing,2.79
+Walmart Supercentre,Parmesan Cheese,2.19
+Metro,Noodles,3.29
+Metro,Unsalted Butter,8.99
+Metro,Heavy Cream,5.98
+Metro,Garlic,0.98
+Metro,Black Pepper,1.98
+Metro,Fresh Parsley,4.98
+Metro,Chicken Breast,8.99
+Metro,Fettuccine Pasta,3.29
+Metro,Sauce,3.69
+Metro,Water,1.09
+Metro,Salt,0.89
+Metro,Ground Beef Patties,5.49
+Metro,Buns,2.29
+Metro,Lettuce,1.69
+Metro,Tomatoes,2.49
+Metro,Cheese,3.99
+Metro,Croutons,1.99
+Metro,Caesar Dressing,3.29
+Metro,Parmesan Cheese,2.99
+Food Basics,Noodles,2.49
+Food Basics,Fettuccine Pasta,4.29
+Food Basics,Unsalted Butter,5.99
+Food Basics,Heavy Cream,3.98
+Food Basics,Garlic,0.78
+Food Basics,Black Pepper,1.98
+Food Basics,Fresh Parsley,4.98
+Food Basics,Chicken Breast,8.98
+Food Basics,Sauce,3.29
+Food Basics,Water,0.79
+Food Basics,Salt,0.59
+Food Basics,Ground Beef Patties,4.79
+Food Basics,Buns,1.69
+Food Basics,Lettuce,1.19
+Food Basics,Tomatoes,1.79
+Food Basics,Cheese,2.69
+Food Basics,Croutons,1.49
+Food Basics,Caesar Dressing,2.49
+Food Basics,Parmesan Cheese,1.99
+FreshCo,Noodles,2.59
+FreshCo,Fettuccine Pasta,3.50
+FreshCo,Unsalted Butter,5.99
+FreshCo,Heavy Cream,3.98
+FreshCo,Garlic,0.78
+FreshCo,Black Pepper,1.98
+FreshCo,Fresh Parsley,4.98
+FreshCo,Chicken Breast,9.99
+FreshCo,Sauce,3.09
+FreshCo,Water,0.69
+FreshCo,Salt,0.49
+FreshCo,Ground Beef Patties,4.69
+FreshCo,Buns,1.59
+FreshCo,Lettuce,1.09
+FreshCo,Tomatoes,1.69
+FreshCo,Cheese,2.79
+FreshCo,Croutons,1.59
+FreshCo,Caesar Dressing,2.69
+FreshCo,Parmesan Cheese,2.09
+Goodness Me! Natural Food Market,Noodles,3.99
+Goodness Me! Natural Food Market,Fettuccine Pasta,4.20
+Goodness Me! Natural Food Market,Unsalted Butter,8.99
+Goodness Me! Natural Food Market,Heavy Cream,5.98
+Goodness Me! Natural Food Market,Garlic,0.99
+Goodness Me! Natural Food Market,Black Pepper,1.98
+Goodness Me! Natural Food Market,Fresh Parsley,5.98
+Goodness Me! Natural Food Market,Chicken Breast,13.00
+Goodness Me! Natural Food Market,Sauce,4.49
+Goodness Me! Natural Food Market,Water,1.29
+Goodness Me! Natural Food Market,Salt,0.99
+Goodness Me! Natural Food Market,Ground Beef Patties,6.49
+Goodness Me! Natural Food Market,Buns,2.49
+Goodness Me! Natural Food Market,Lettuce,1.99
+Goodness Me! Natural Food Market,Tomatoes,3.29
+Goodness Me! Natural Food Market,Cheese,4.49
+Goodness Me! Natural Food Market,Croutons,2.29
+Goodness Me! Natural Food Market,Caesar Dressing,3.99
+Goodness Me! Natural Food Market,Parmesan Cheese,3.49
+Longo's Guelph,Noodles,3.79
+Longo's Guelph,Unsalted Butter,8.99
+Longo's Guelph,Heavy Cream,5.98
+Longo's Guelph,Garlic,0.99
+Longo's Guelph,Black Pepper,1.98
+Longo's Guelph,Fresh Parsley,5.98
+Longo's Guelph,Fettuccine Pasta,4.50
+Longo's Guelph,Chicken Breast,14.50
+Longo's Guelph,Sauce,4.29
+Longo's Guelph,Water,1.19
+Longo's Guelph,Salt,0.89
+Longo's Guelph,Ground Beef Patties,6.99
+Longo's Guelph,Buns,2.79
+Longo's Guelph,Lettuce,2.29
+Longo's Guelph,Tomatoes,3.79
+Longo's Guelph,Cheese,4.99
+Longo's Guelph,Croutons,2.49
+Longo's Guelph,Caesar Dressing,4.29
+Longo's Guelph,Parmesan Cheese,3.99
+Hasty Market,Noodles,3.49
+Hasty Market,Unsalted Butter,5.99
+Hasty Market,Heavy Cream,3.98
+Hasty Market,Garlic,0.99
+Hasty Market,Black Pepper,1.98
+Hasty Market,Fresh Parsley,2.98
+Hasty Market,Fettuccine Pasta,3.50
+Hasty Market,Chicken Breast,12.99
+Hasty Market,Sauce,3.99
+Hasty Market,Water,1.09
+Hasty Market,Salt,0.79
+Hasty Market,Ground Beef Patties,5.99
+Hasty Market,Buns,2.19
+Hasty Market,Lettuce,1.79
+Hasty Market,Tomatoes,2.99
+Hasty Market,Cheese,3.79
+Hasty Market,Croutons,2.09
+Hasty Market,Caesar Dressing,3.49
+Hasty Market,Parmesan Cheese,3.29
+Vincenzo's,Noodles,4.29
+Vincenzo's,Fettuccine Pasta,3.50
+Vincenzo's,Chicken Breast,10.99
+Vincenzo's,Unsalted Butter,5.99
+Vincenzo's,Heavy Cream,3.98
+Vincenzo's,Garlic,0.99
+Vincenzo's,Black Pepper,1.98
+Vincenzo's,Fresh Parsley,2.98
+Vincenzo's,Sauce,4.79
+Vincenzo's,Water,1.39
+Vincenzo's,Salt,1.09
+Vincenzo's,Ground Beef Patties,7.49
+Vincenzo's,Buns,2.99
+Vincenzo's,Lettuce,2.49
+Vincenzo's,Tomatoes,4.19
+Vincenzo's,Cheese,5.49
+Vincenzo's,Croutons,2.79
+Vincenzo's,Caesar Dressing,4.79
+Vincenzo's,Parmesan Cheese,4.49
+Costco Wholesale,Noodles,2.29
+Costco Wholesale,Chicken Breast,14.29
+Costco Wholesale,Fettuccine Pasta,3.00
+Costco Wholesale,Unsalted Butter,6.99
+Costco Wholesale,Heavy Cream,3.98
+Costco Wholesale,Garlic,0.99
+Costco Wholesale,Black Pepper,1.98
+Costco Wholesale,Fresh Parsley,2.98
+Costco Wholesale,Sauce,2.79
+Costco Wholesale,Water,0.59
+Costco Wholesale,Salt,0.39
+Costco Wholesale,Ground Beef Patties,4.29
+Costco Wholesale,Buns,1.29
+Costco Wholesale,Lettuce,0.99
+Costco Wholesale,Tomatoes,1.49
+Costco Wholesale,Cheese,2.29
+Costco Wholesale,Croutons,1.19
+Costco Wholesale,Caesar Dressing,2.19
+Costco Wholesale,Parmesan Cheese,1.79
